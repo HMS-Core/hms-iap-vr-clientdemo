@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".iap.vrpaydemo.MainActivity">
+
+    <TextView
+        style="@style/TitleStyle"
+        android:text="VRShop">
+    </TextView>
+
+
+    <Button
+        android:id="@+id/btn_pay2"
+        style="@style/ButtonStyle"
+        android:text="确认支付 ¥0.01">
+    </Button>
+
+
+</LinearLayout>
