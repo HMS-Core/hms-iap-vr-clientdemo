@@ -48,15 +48,15 @@ Android SDK Version >= 22 and JDK version >= 1.8 is recommended.
 
 Once you start the demo, you should be able to see the following page.
 
-<img src="image/homepage.jpg" alt="demo home page" height="600"/>
+<img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/homepage.JPG alt="demo home page" height="600"/>
 
 Tap **确认支付 ¥0.01**, the demo will call the `pay` API, and jump to the checkout page which is provided by IAP Service.
 
- <img src="image/checkout-page.jpg" alt="payment selection" height="600"/>
+ <img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/checkout-page.JPG alt="payment selection" height="600"/>
 
 Once purchase succeed, IAP Service will display the purchase result.
 
- <img src="image/purchase-result.jpg" alt="payment result" height="600"/>
+ <img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/purchase-result.JPG alt="payment result" height="600"/>
 
  ## Licensing
 
