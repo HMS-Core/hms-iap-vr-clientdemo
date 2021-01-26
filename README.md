@@ -1,4 +1,4 @@
-# Huawei VR Pay
+# HUAWEI In-App Purchases(IAP) Clientdemo for VR
 
 The iap_demo App demonstrates Huawei VR Pay client APIs and usages.
 
@@ -57,6 +57,17 @@ Tap **确认支付 ¥0.01**, the demo will call the `pay` API, and jump to the c
 Once purchase succeed, IAP Service will display the purchase result.
 
  <img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/purchase-result.JPG alt="payment result" height="600"/>
+
+## Question or issues
+If you want to evaluate more about HMS Core,
+[r/HMSCore on Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
+
+If you have questions about how to use HMS samples, try the following options:
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/huawei-mobile-services) is the best place for any programming questions. Be sure to tag your question with 
+`huawei-mobile-services`.
+- [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core Module is great for general questions, or seeking recommendations and opinions.
+
+If you run into a bug in our samples, please submit an [issue](https://github.com/HMS-Core/hms-iap-vr-clientdemo/issues) to the Repository. Even better you can submit a [Pull Request](https://github.com/HMS-Core/hms-iap-vr-clientdemo/pulls) with a fix.
 
  ## Licensing
 
