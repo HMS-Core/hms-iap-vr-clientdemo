@@ -40,15 +40,15 @@
 
 运行demo后，会出现如下页面。
 
-<img src="images/homepage_cn.jpg" alt="运行结果" height="600"/> 
+<img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/homepage_cn.jpg height="600"/> 
 
 点击“确认支付 ¥0.01”，demo会调用pay接口，跳转至付款界面。该界面跳转由华为应用内支付服务支持。
 
-<img src="images/checkout_cn.jpg" alt="付款页面" height="600"/> 
+<img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/checkout_cn.jpg height="600"/> 
 
 付款成功后，页面将显示支付结果。该页面跳转由华为应用内支付服务支持。
 
-<img src="images/purchase_result_cn.jpg" alt="支付结果" height="600"/> 
+<img src=https://github.com/HMS-Core/hms-iap-vr-clientdemo/blob/master/image/purchase_result_cn.png height="600"/> 
  
 ## 授权许可
 
